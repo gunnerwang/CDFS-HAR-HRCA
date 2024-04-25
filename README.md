@@ -1,2 +1,2 @@
-# CrossDomain-FewShot-HAR-for-ProactiveHRCA
-All involved codes and sample data will be released soon!
+# CDFS-HAR-HRCA
+The paper, codes and some sample data will be released soon!
