@@ -1,5 +1,5 @@
 # CDFS-HAR-HRCA
-This repository contains the codes and some sample data for the paper "Data-efficient multimodal human action recognition for proactive human–robot collaborative assembly: A cross-domain few-shot learning approach".
+This repository contains the codes and some sample data for the paper "Data-efficient multimodal human action recognition for proactive human–robot collaborative assembly: A cross-domain few-shot learning approach" ([Paper](https://www.sciencedirect.com/science/article/pii/S0736584524000723)).
 
 ## Dataset
 - **Some Sample Data of Our Collection**:
