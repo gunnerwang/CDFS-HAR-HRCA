@@ -1,0 +1,1 @@
+python3 pretrain.py -c checkpoint_dir_coax_depth --query_per_class 5 --shot 5 --way 5 --trans_linear_out_dim 128 --tasks_per_batch 16 --test_iters 1000 2000 --dataset coax --split 3 -lr 0.001 --method resnet18 --img_size 84 --scratch bc --training_iterations 2001 --print_freq 10 --save_freq 500 --seq_len 8 --modality rgb depth

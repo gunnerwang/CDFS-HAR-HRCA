@@ -1,0 +1,1 @@
+python3 inference.py -c checkpoint_dir_coax_depth -r --query_per_class 5 --shot 5 --way 5 --trans_linear_out_dim 128 --tasks_per_batch 16 --test_iters 1000 --dataset ourtoy --split 3 -lr 0.001 --method resnet18 --img_size 84 --scratch bc --training_iterations 2000 --print_freq 10 --save_freq 500 --modality rgb depth
